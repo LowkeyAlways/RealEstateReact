@@ -1,0 +1,12 @@
+*{
+    text-decoration: none;
+}
+
+.css-0 img{
+    width: 500px;
+    height: 300px;
+}
+
+.chakra-avatar__img{
+    height: auto !important;
+}
